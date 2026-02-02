@@ -223,7 +223,9 @@ GET /api/v1/partner-stores
   ]
 }
 
+```
 ---
 
 ## Задание 3 — API
+
 ![Архитектура PUSH-уведомлений](push-architecture.jpg)
